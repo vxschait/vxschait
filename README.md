@@ -1,12 +1,12 @@
-# Hi there 👋, I'm Chaitanya !
+# Hi, I'm Chaitanya 
 
-Welcome to my GitHub profile! I’m a passionate Java Developer with experience in building scalable and efficient applications. I love solving problems through code and continuously improving my skills. My main focus is on backend development and creating high-performance applications.
+Welcome to my GitHub profile I’m a Java Developer
 
 ## 🛠️ Technologies & Tools
 
 - **Programming Languages**:  
   ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=ffffff)  
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=ffffff)
+  
 
 - **Frameworks**:  
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)  
@@ -18,29 +18,5 @@ Welcome to my GitHub profile! I’m a passionate Java Developer with experience 
   ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=ffffff)  
  
 
-- **Databases**:  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 
-## 🔭 Current Work
-
-- Building enterprise-level backend solutions using **Spring Boot**.
-- Working with microservices architecture and Docker for containerization.
-- Designing and optimizing database schemas for high-performance applications.
-
-
-## 🌱 Learning & Growth
-
-- Exploring **Cloud technologies** (AWS).
-- Diving deeper into **Reactive Programming** with **Spring WebFlux**.
-- Enhancing my knowledge of **Kafka** for event-driven systems.
-- Staying updated with the latest advancements in **Java 17+** and **Spring 6**.
-
-
-
-
-
-
----
-
-Thank you for visiting my profile! 😊
+Thank you for visiting my profile 
